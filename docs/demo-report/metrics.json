@@ -1,0 +1,17 @@
+{
+  "total_orders": 600,
+  "paid_orders": 477,
+  "cancelled_orders": 72,
+  "revenue_kopecks": 527178300,
+  "paying_customers": 96,
+  "repeat_customers": 81,
+  "date_from": "2026-01-01",
+  "date_to": "2026-03-31",
+  "revenue_rub": "5271783.00",
+  "average_order_value_rub": "11051.96",
+  "repeat_customer_percent": "84.38",
+  "cancellation_percent": "12.00",
+  "etl_run_id": "c53a8c460164404994829a70d5b1beb1",
+  "snapshot_at": "2026-10-03T06:36:02.612645+00:00",
+  "demo_only": true
+}
